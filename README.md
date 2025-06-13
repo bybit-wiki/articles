@@ -93,4 +93,4 @@ Citations:
 [17] https://forum.donanimhaber.com/referans-linkleri-ana-konu--130473353-108
 [18] https://poe.com/Referral-Code-Bot
 [19] https://www.every.org/@bybit.referral.code
-[20] https://maps.google.com/search?q=Bybit+Referral+Code:+BYCODE&igu=1
+[20] https://partner.bybit.com/b/BYHUB
